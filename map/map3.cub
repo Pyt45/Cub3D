@@ -1,0 +1,12 @@
+R 720 480
+NO ./texture/wood.xpm
+SO ./texture/redbrick.xpm
+WE ./texture/stone.xpm
+EA ./texture/mossy.xpm
+S ./texture/barrel.xpm
+F 35,51,117
+C 0,0,0
+
+1111
+1N21
+1111
